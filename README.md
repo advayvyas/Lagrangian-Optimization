@@ -1,4 +1,4 @@
-# A Lagrangian Approach to Loss Function Optimization on Traffic Network Regularity
+# [A Lagrangian Approach to Loss Function Optimization on Traffic Network Regularity](https://ieeexplore.ieee.org/document/10534993)
 
 This is the codebase for the aforementioned research project, complete with Jupyter notebooks and graph pickles.
 
